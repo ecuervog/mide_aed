@@ -10,7 +10,6 @@ output:
     toc: true
     toc_depth: 5
     toc_float: true
-bibliography: D:/Personal/Biblioteca/Bibliografias/biblio.bib
 ---
 
 [ecuervog@gmail.com](mailto:ecuervog@gmail.com)
@@ -18,20 +17,6 @@ bibliography: D:/Personal/Biblioteca/Bibliografias/biblio.bib
 [RPubs](https://rpubs.com/ecuervog)
 
 <!--
-
-# PENDIENTES
-
-- Continuar revisando el material: terminar de revisar la parte relativa a la preparación de los datos. Migrar todos los ejemplos a la sección de trabajo con los datos y vincular con hypervínculos.
-
-- Seguir leyendo @emerson1983. Página 111.
-
-- Revisar la estructura del curso. Todavía no queda muy claro qué es mejor: ¿ir trabajando con los datos a la par de la exposición?
-
-- Añadir algún comentario sobre codificación de los archivos de texto plano.
-
-- Revisar https://bookdown.org/rdpeng/artofdatascience/exploratory-data-analysis.html
-
-- ¿Donde insertar la inspección visual de los datos? Funciones head() y tail().
 
 NOTA IMPORTANTE: si ejecutas este Rmd, es necesario que quites (o modifiques) la línea en el YAML correspondiente a la bibliografía. En su defecto, la compilación marcará un error.
 
